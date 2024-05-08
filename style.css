@@ -27,13 +27,13 @@
     } 
     
     .titulo-principal{
-        text-align: left
+        text-align: left;
         width: 100%;
-        font-size: 32xp;
+        font-size: 32px;
     }
 
     .titulo-principal span{ 
-        colo: var(--verde);
+        color: var(--verde);
     
     }
     .botao{
